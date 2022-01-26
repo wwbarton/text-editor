@@ -30,7 +30,7 @@ In order to use the corresponding app,The user can type in any desired text with
 
 # License
 
-![Github license] <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+<img src="https://img.shields.io/badge/license-MIT-blue.svg">
 This application is covered by the MIT license.
 
 # Questions
