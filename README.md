@@ -2,7 +2,9 @@
 
 https://github.com/wwbarton/text-editor
 
-# Deployed App Link[J.A.T.E](https://ja-text-editor.herokuapp.com/)
+# Deployed App Link
+
+[J.A.T.E](https://ja-text-editor.herokuapp.com/)
 
 # Description
 
