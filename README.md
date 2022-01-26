@@ -1,3 +1,3 @@
 # JATE
 
-# Deployed App[Heroku Link](https://ja-text-editor.herokuapp.com/)
+# Deployed App Link[J.A.T.E](https://ja-text-editor.herokuapp.com/)
